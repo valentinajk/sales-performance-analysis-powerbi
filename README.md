@@ -10,15 +10,6 @@ Data Source
 Table: Sample - Superstore
 Key fields used across visuals:
 
-Sales — revenue per transaction
-Profit — profit per transaction
-Order ID — unique order identifier
-Order Date — transaction date
-year — derived year field from Order Date
-Sub-Category — product sub-category
-Region — geographic sales region
-
-
 How to Use
 
 Open sales_data_analysis.pbix in Power BI Desktop (March 2026 or later recommended).
